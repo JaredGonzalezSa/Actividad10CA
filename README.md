@@ -7,7 +7,9 @@
 ---
 
 ## Datos del Equipo
-* **Integrantes:** Carlos Alfonzo Jared González Sagastume 202500177
+* **Integrantes:**
+  -  Carlos Alfonzo Jared González Sagastume 202500177
+  -  Brandon Michael Xón Xón 202505166
 * **Caso propuesto:** Adopción de Trello o Jira para la gestión de tareas del equipo en sustitución del chat grupal.
 
 ---
