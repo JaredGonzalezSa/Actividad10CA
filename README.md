@@ -40,24 +40,24 @@ Nuestra propuesta se basa en la siguiente estructura argumentativa:
 * **Ludwin:** Es que el chat simplemente no fue diseñado para organizar trabajo, no es su función.
 0
 ### [0:50 - 1:15] La Solución
-* *Jared:* Por eso estuvimos pensando entre los tres y nos sentamos a hablar del tema.
-* *Ludwin:* Llegamos a una idea que queremos proponerles: ¿y si probamos algo más ordenado y más visual?
-* *Michael:* Algo como Trello. O Jira si prefieren, pero Trello es más fácil para empezar.
-* *Jared:* Es gratis, se aprende en 15 minutos y no necesitamos instalar nada raro.
-* *Ludwin:* La propuesta es bien simple, no queremos complicarle la vida a nadie.
-* *Michael:* Usar Trello con tres columnas nada más: Pendiente, En progreso y Terminado.
+* **Jared:** Por eso estuvimos pensando entre los tres y nos sentamos a hablar del tema.
+* **Ludwin:** Llegamos a una idea que queremos proponerles: ¿y si probamos algo más ordenado y más visual?
+* **Michael:** Algo como Trello. O Jira si prefieren, pero Trello es más fácil para empezar.
+* **Jared:** Es gratis, se aprende en 15 minutos y no necesitamos instalar nada raro.
+* **Ludwin:** La propuesta es bien simple, no queremos complicarle la vida a nadie.
+* **Michael:** Usar Trello con tres columnas nada más: Pendiente, En progreso y Terminado.
 
 ### [1:15 - 1:40] Implementación Práctica
-* *Michael:* Cada tarea es una tarjeta que se mueve de izquierda a derecha a medida que avanza.
-* *Jared:* Así todos ven en tiempo real qué está haciendo cada quien, sin tener que andar preguntando.
-* *Ludwin:* ¿Cuántas veces hemos preguntado "oye, ¿en qué vas?" o "¿ya terminaste aquello?" Muchas.
-* *Michael:* Con Trello, la respuesta ya está ahí, en el tablero, al alcance de todos.
-* *Jared:* Es más fácil, más rápido y más ordenado.
+* **Michael:** Cada tarea es una tarjeta que se mueve de izquierda a derecha a medida que avanza.
+* **Jared:** Así todos ven en tiempo real qué está haciendo cada quien, sin tener que andar preguntando.
+* **Ludwin:** ¿Cuántas veces hemos preguntado "oye, ¿en qué vas?" o "¿ya terminaste aquello?" Muchas.
+* **Michael:** Con Trello, la respuesta ya está ahí, en el tablero, al alcance de todos.
+* **Jared:** Es más fácil, más rápido y más ordenado.
 
 ### [1:40 - 2:05] Beneficios
-* *Jared:* ¿Qué ganamos con esto? Les voy a decir los beneficios.
-* *Ludwin:* Primero, visibilidad total. Todos ven todo. Fin del misterio.
-* *Michael:* Segundo, menos errores. Nada de tareas duplicadas como lo de la semana pasada.
-* *Jared:* Tercero, menos estrés. Porque todo queda escrito, ordenado y nadie se olvida de nada.
-* *Ludwin:* En otros equipos que ya usan Trello, la productividad mejora bastante. No es invento nuestro.
-* *Michael:* Hay estudios y experiencias reales que lo respaldan.
+* **Jared:** ¿Qué ganamos con esto? Les voy a decir los beneficios.
+* **Ludwin:** Primero, visibilidad total. Todos ven todo. Fin del misterio.
+* **Michael:** Segundo, menos errores. Nada de tareas duplicadas como lo de la semana pasada.
+* **Jared:** Tercero, menos estrés. Porque todo queda escrito, ordenado y nadie se olvida de nada.
+* **Ludwin:** En otros equipos que ya usan Trello, la productividad mejora bastante. No es invento nuestro.
+* **Michael:** Hay estudios y experiencias reales que lo respaldan.
