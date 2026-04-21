@@ -82,3 +82,11 @@ Nuestra propuesta se basa en la siguiente estructura argumentativa:
 * *Ludwin:* Si no funciona, no funcionó y ya. No perdemos nada con probar.
 * *Michael:* Pero si funciona, y creemos que va a funcionar, nos vamos a agradecer después.
 * *Jared:* Esa es nuestra propuesta. Gracias por escuchar.
+
+
+
+# [Evidencia: Realización de la evaluación de rendimiento]
+## Brandon Michael Xón Xón 202505166
+<img width="1606" height="921" alt="Captura de pantalla 2026-04-21 162051" src="https://github.com/user-attachments/assets/2493a5ca-a3e6-4cbf-81e2-795a165ab625" />
+
+
