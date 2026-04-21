@@ -63,3 +63,22 @@ Nuestra propuesta se basa en la siguiente estructura argumentativa:
 * **Jared:** Tercero, menos estrés. Porque todo queda escrito, ordenado y nadie se olvida de nada.
 * **Ludwin:** En otros equipos que ya usan Trello, la productividad mejora bastante. No es invento nuestro.
 * **Michael:** Hay estudios y experiencias reales que lo respaldan.
+
+### [2:05 - 2:30] Propuesta Concreta (Llamado a la acción)
+* *Michael:* No estamos pidiendo un cambio para siempre ni una herramienta complicada.
+* *Jared:* La propuesta concreta es esta: probemos Trello durante dos semanas. Solo dos semanas.
+* *Ludwin:* Nada más. No les pedimos más que eso.
+* *Michael:* Si al final de las dos semanas vemos que no nos sirve, lo dejamos y ya. No pasa nada.
+* *Jared:* Esto no es añadir más trabajo. Para nada.
+* *Ludwin:* Es dejar de perder el tiempo buscando información por todos lados.
+* *Michael:* Es cambiar una mala costumbre por una buena.
+
+### [2:30 - 3:00] Cierre y Q&A
+* *Michael:* Como equipo, después de hablar entre los tres, creemos que vale la pena intentarlo.
+* *Jared:* No es una crítica a nadie. Todos hemos sufrido el desorden del chat.
+* *Ludwin:* Es una solución entre todos y para todos.
+* *Michael:* ¿Qué opinan? Los escuchamos con atención.
+* *Jared:* ¿Le damos chance a las dos semanas?
+* *Ludwin:* Si no funciona, no funcionó y ya. No perdemos nada con probar.
+* *Michael:* Pero si funciona, y creemos que va a funcionar, nos vamos a agradecer después.
+* *Jared:* Esa es nuestra propuesta. Gracias por escuchar.
