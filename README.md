@@ -90,6 +90,6 @@ Nuestra propuesta se basa en la siguiente estructura argumentativa:
 <img width="1606" height="921" alt="Captura de pantalla 2026-04-21 162051" src="https://github.com/user-attachments/assets/2493a5ca-a3e6-4cbf-81e2-795a165ab625" />
 
 ## [Evidencia: Realización de la evaluación de rendimiento]
-### Ludwin Alexander Pérez Salvatierra Xón Xón 202505166
+### Ludwin Alexander Pérez Salvatierra 202505138
 <img width="1919" height="955" alt="Captura de pantalla 2026-04-21 190222" src="https://github.com/user-attachments/assets/b38173aa-310c-4422-832b-badc366600e0" />
 
