@@ -93,3 +93,8 @@ Nuestra propuesta se basa en la siguiente estructura argumentativa:
 ### Ludwin Alexander Pérez Salvatierra 202505138
 <img width="1919" height="955" alt="Captura de pantalla 2026-04-21 190222" src="https://github.com/user-attachments/assets/b38173aa-310c-4422-832b-badc366600e0" />
 
+
+## [Evidencia: Realización de la evaluación de rendimiento]
+### Carlos Alfonzo Jared González Sagastume 202500177
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/d3f85d1f-ff87-4fc5-a9bf-17add59bbcd7" />
+
